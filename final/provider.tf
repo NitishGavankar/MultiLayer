@@ -1,0 +1,6 @@
+provider "aws" {
+  region     = "us-east-1"
+  access_key = "AKIAZBKFHQ2KVF6IIYSI"
+  secret_key = "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"
+#alias  = "nitish"
+}
